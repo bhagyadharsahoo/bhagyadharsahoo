@@ -1,5 +1,5 @@
-                                                                                    ### Hi there 👋 I am Bhagyadhar Sahoo 👨🏾‍💻
-                                                                                         An iOS Devloper from Banglore 
+                                    ### Hi there 👋 I am Bhagyadhar Sahoo 👨🏾‍💻
+                                           An iOS Devloper from Banglore 
 <!--
 **bhagyadharsahoo/bhagyadharsahoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
